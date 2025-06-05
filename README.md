@@ -1,9 +1,9 @@
 # SwiftUI List with ForEach and Navigation – Complete Guide
 
-[![Watch on YouTube](Image.png)](https://youtu.be/VJ4ULHsS6vE?si=NkgKhlkX3BoaB2ho)
+[![Watch on YouTube](Image.png)](https://youtu.be/ecDke6DN3qw)
 
 🚀 **Video Title**: SwiftUI List with ForEach and NavigationLink | iOS Interview Question Explained  
-🎥 **Watch Now**: [YouTube Video](https://youtu.be/VJ4ULHsS6vE?si=NkgKhlkX3BoaB2ho)  
+🎥 **Watch Now**: [YouTube Video](https://youtu.be/ecDke6DN3qw)  
 📂 **Playlist**: [SwiftUI Master Series](https://www.youtube.com/playlist?list=PL2Sk-NhO3icG_QURMdvp-1Ap_w5ya0L8m)
 
 ---

@@ -85,3 +85,37 @@ struct DetailView: View {
 #Preview {
     ContentView()
 }
+
+
+
+class TempObjModel : ObservableObject {
+    
+    var name: String? = "Pushpendra"
+    
+    
+    var person : Person?
+    
+    func getName() -> String {
+        if let userName = name {
+            return "User name is \(userName)"
+        } else {
+            return "User name not found"
+        }
+    }
+    
+    func getCity() -> String? {
+        var person: Person? = Person()
+        let cityName = person?.address?.city
+        return cityName
+    }
+    
+    
+    
+    
+    class Person {
+        var address : Address?
+        class Address {
+            var city : String? = "Noida"
+        }
+    }
+}
